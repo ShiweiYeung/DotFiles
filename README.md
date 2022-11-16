@@ -1,1 +1,1 @@
-# DotFiles for linux
+# DotFiles for Ubuntu
